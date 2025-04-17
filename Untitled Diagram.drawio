@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="jrc66KedYIz5Gp7OFV4F">
     <mxGraphModel dx="1428" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,36 +72,36 @@
         <mxCell id="CKIJ8i795fiiPhjMI_jK-33" value="BlockChain layer:&amp;nbsp;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Asynchronous consumption module&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;World state generation&lt;/li&gt;&lt;li&gt;Broadcast&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="910" width="510" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-1" value="geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-1" value="Scroll geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY2N_dBEdKrHR9xJi046-2" target="hY2N_dBEdKrHR9xJi046-6">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hY2N_dBEdKrHR9xJi046-2" target="hY2N_dBEdKrHR9xJi046-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-2" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-2" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="645" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-6" value="sentry server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-6" value="sentry server" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1380" y="762.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-8" value="geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-8" value="Quicknode geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY2N_dBEdKrHR9xJi046-9" target="hY2N_dBEdKrHR9xJi046-6">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hY2N_dBEdKrHR9xJi046-9" target="hY2N_dBEdKrHR9xJi046-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-9" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-9" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="780" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-10" value="geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-10" value="ankr geth/reth node" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="847.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hY2N_dBEdKrHR9xJi046-11" target="hY2N_dBEdKrHR9xJi046-6">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="hY2N_dBEdKrHR9xJi046-11" target="hY2N_dBEdKrHR9xJi046-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hY2N_dBEdKrHR9xJi046-11" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hY2N_dBEdKrHR9xJi046-11" value="sentry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="907.5" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
